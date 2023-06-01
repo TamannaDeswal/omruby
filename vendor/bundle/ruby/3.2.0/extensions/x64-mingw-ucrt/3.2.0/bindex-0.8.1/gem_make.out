@@ -1,0 +1,19 @@
+current directory: C:/Users/LENOVO/omruby/vendor/bundle/ruby/3.2.0/gems/bindex-0.8.1/ext/skiptrace
+C:/Ruby32-x64/bin/ruby.exe extconf.rb
+creating Makefile
+
+current directory: C:/Users/LENOVO/omruby/vendor/bundle/ruby/3.2.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20230601-21708-beisks sitelibdir\=./.gem.20230601-21708-beisks clean
+
+current directory: C:/Users/LENOVO/omruby/vendor/bundle/ruby/3.2.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20230601-21708-beisks sitelibdir\=./.gem.20230601-21708-beisks
+generating cruby-x64-mingw-ucrt.def
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.so
+
+current directory: C:/Users/LENOVO/omruby/vendor/bundle/ruby/3.2.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20230601-21708-beisks sitelibdir\=./.gem.20230601-21708-beisks install
+/usr/bin/install -c -m 0755 cruby.so ./.gem.20230601-21708-beisks/skiptrace/internal
+
+current directory: C:/Users/LENOVO/omruby/vendor/bundle/ruby/3.2.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= sitearchdir\=./.gem.20230601-21708-beisks sitelibdir\=./.gem.20230601-21708-beisks clean
